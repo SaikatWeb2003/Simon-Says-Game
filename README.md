@@ -22,6 +22,7 @@ Score tracking and game over display
 Option to restart the game
 
 🛠️ Technologies Used
+
 HTML5
 
 CSS3
